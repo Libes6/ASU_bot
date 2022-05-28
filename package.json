@@ -1,0 +1,36 @@
+{
+
+    "name": "asu_help_bot",
+
+    "version": "1.0.0",
+
+    "description": "",
+
+    "main": "app.js",
+
+    "scripts": {
+
+        "start": "node index.js"
+
+    },
+
+    "author": "Libes6",
+
+    "license": "ISC",
+
+    "dependencies": {
+
+        "fs": "^0.0.1-security",
+
+        "mysql2": "^2.3.3",
+
+        "nodemon": "^2.0.16",
+
+        "pm2": "^5.2.0",
+
+        "telegraf": "^4.8.1"
+
+    }
+
+}
+
